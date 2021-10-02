@@ -1,0 +1,9 @@
+1)Take recent data backup
+2)Copy all images
+3)Uninstall old software
+4)Install IIS, DB, Node, Forever
+5)Paste application files and run npm install
+6)Run db scripts and load json data.  Put entry in gym profile and user master.
+7)Add recent data from data backup to new db
+8)bat file change and desktop shortcut
+9)run and test
